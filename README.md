@@ -132,6 +132,7 @@ Movi-Dick es un barco de 20–25 m de eslora diseñado para recolectar plástico
 
 - **HidroFix** — seguridad para celdas de hidrógeno  
   [Repositorio](https://github.com/enriqueherbertag-lgtm/Hidrofix)
+
 ---
 
 ## Licencia
@@ -148,4 +149,3 @@ Investigador independiente, Mackiber Labs
 Contacto: eaguayo@migst.cl  
 ORCID: 0009-0004-4615-6825  
 GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
-
