@@ -137,13 +137,6 @@ Movi-Dick es un barco de 20–25 m de eslora diseñado para recolectar plástico
 
 ---
 
-## Licencia
-
-Apache 2.0 con restricción de uso comercial.  
-*Este es un framework base open-source. El que quiera más precisión, menor latencia o features avanzadas… que lo modifique y contribuya.*
-
----
-
 ## Autor
 
 **Enrique Aguayo H.**  
