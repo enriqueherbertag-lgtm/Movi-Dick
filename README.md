@@ -1,7 +1,5 @@
 # Movi-Dick
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 **Barco recolector y reciclador de plásticos marinos. Proa de 8 m, captura pasiva, procesamiento industrial a bordo.**
 
 Movi-Dick es un barco de 20–25 m de eslora diseñado para recolectar plásticos flotantes y sumergidos en el mar, procesarlos a bordo y convertirlos en lingotes de material reciclado listos para su reutilización. Opera con motores diésel marinos estándar, energía eléctrica propia, y un sistema de captura pasiva tipo corneta ajustable hidráulicamente.
